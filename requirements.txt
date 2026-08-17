@@ -1,0 +1,43 @@
+Personal Diary Management System - Requirements
+
+Programming Language:
+C
+
+C Standard:
+C99 or later
+
+Compiler:
+GCC / MinGW-w64
+or any compiler that supports C99 or later
+
+Standard Libraries:
+stdio.h
+stdlib.h
+string.h
+
+External Libraries:
+None
+
+Operating System:
+Windows
+
+Note:
+The program uses system("cls") to clear the console screen.
+
+Data Files:
+users.dat
+entries.dat
+
+Memory Management:
+Fixed-size arrays are used.
+No malloc(), calloc(), realloc(), or free() is used.
+
+Maximum Storage:
+10000 Users
+10000 Diary Entries
+
+How to Compile:
+gcc main.c -o diary.exe
+
+How to Run:
+diary.exe
