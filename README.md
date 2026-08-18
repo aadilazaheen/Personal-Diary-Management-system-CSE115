@@ -14,7 +14,7 @@ This is our first-semester project: a professional and robust implementation of 
 | 03 | **Samia Meharin Lisa** | 2623705042 |
 | 04 | **MD. Ashrafuzzaman** | 2625096042 |
 
-Course: **CSE115** | Section: **04** | Faculty: **MSRb**
+Group no: **07** | Course: **CSE115** | Section: **04** | Faculty: **MSRb**
 
 ## 🚀 Key Features
 
