@@ -30,7 +30,6 @@ entries.dat
 
 Memory Management:
 Fixed-size arrays are used.
-No malloc(), calloc(), realloc(), or free() is used.
 
 Maximum Storage:
 10000 Users
